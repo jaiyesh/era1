@@ -1,2 +1,2 @@
-# era1
-Era1 common repositories
+# pytorch-era1
+Common repository for ERA1 assignment
